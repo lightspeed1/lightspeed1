@@ -1,4 +1,6 @@
 PERSONAL WEBSITE: lightspeed1.github.io
+
+
 school email: andrew.strong@colorado.edu
 
 ### Hi there 👋
