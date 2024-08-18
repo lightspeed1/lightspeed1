@@ -5,9 +5,9 @@ school email: andrew.strong@colorado.edu
 
 ### Hi there 👋
 
-- 🔭 I'm currently working on Natural Language Processing Research with CLEAR at CU Boulder
-- 🌱 I’m currently learning about Graph Neural Networks (GNNs)
-- 🏁 I've recently finished Workout Wizard, my workout tracking app
+- 🔭 I'm currently starting my fourth year at CU Boulder
+- 🌱 I’m currently learning more about React.js and Next.js
+- 🏁 I've recently finished my SWE internship at SNC
 <!-- - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - ⚡ Fun fact: ... -->
